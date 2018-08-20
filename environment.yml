@@ -9,3 +9,12 @@ dependencies:
     - matplotlib
     - pandas
     - thinc
+    - requests
+    - scrapy
+    - pillow
+    - twisted
+    - pygame
+    - pyglet
+    - nose
+    - ipython
+    - scapy
